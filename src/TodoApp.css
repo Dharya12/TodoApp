@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.headContainer{
+    /* background-color: #49dede; */
+    width: 100%;
+    
+}
+.showitems{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.editMuiButton{
+    text-align: center;
+}
